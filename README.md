@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://githacks.org/_xeroxz/pclone/-/raw/78ec8745ad117f42640063ef3bd10e5946f7ad6d/img/pclone-icon.png"/>
+    <img src="img/pclone-icon.png"/>
 </div>
 
 # pclone
